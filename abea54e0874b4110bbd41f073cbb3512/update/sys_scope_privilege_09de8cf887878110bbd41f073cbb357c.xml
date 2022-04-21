@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="NeedIt Spoke">abea54e0874b4110bbd41f073cbb3512</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-04-21 07:51:40</sys_created_on>
+        <sys_id>09de8cf887878110bbd41f073cbb357c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Glide API: properties</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_806266_needit_sp">abea54e0874b4110bbd41f073cbb3512</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">abea54e0874b4110bbd41f073cbb3512</sys_scope>
+        <sys_update_name>sys_scope_privilege_09de8cf887878110bbd41f073cbb357c</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-04-21 07:51:40</sys_updated_on>
+        <target_name>Glide API: properties</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+</record_update>
